@@ -1,0 +1,12 @@
+# config.py
+api_id = ""
+api_hash = ""
+bot_token = ""
+MONGO_URL = ""
+OWNER_ID = 5630057244
+OWNER_IDD = [5630057244]
+DEV_USERS = [2033411813]
+BOT_ID = 485454
+DEFAULT_LANG = "en"
+SUPPORT_CHAT_ID = -89422424
+LOG_CHANNEL = -8924
